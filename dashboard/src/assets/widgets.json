@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "id": "cspm",
+      "name": "CSPM",
+      "widgets": [
+        {
+          "id": "widget1",
+          "name": "Widget ",
+          "description": "Description of Widget 1"
+        },
+        {
+          "id": "widget2",
+          "name": "Widget ",
+          "description": "Description of Widget 2"
+        },
+        {
+          "id": "widget3",
+          "name": "Widget ",
+          "description": "Description of Widget 3"
+        }
+      ]
+    },
+    {
+      "id": "cwpp",
+      "name": "CWPP",
+      "widgets": [
+        {
+          "id": "widget4",
+          "name": "Widget ",
+          "description": "Description of Widget 4"
+        },
+        {
+          "id": "widget5",
+          "name": "Widget ",
+          "description": "Description of Widget 5"
+        },
+        {
+          "id": "widget6",
+          "name": "Widget ",
+          "description": "Description of Widget 6"
+        }
+      ]
+    },
+    {
+      "id": "registry",
+      "name": "Registry",
+      "widgets": [
+        {
+          "id": "widget7",
+          "name": "Widget ",
+          "description": "Description of Widget 7"
+        },
+        {
+          "id": "widget8",
+          "name": "Widget ",
+          "description": "Description of Widget 8"
+        },
+        {
+          "id": "widget9",
+          "name": "Widget ",
+          "description": "Description of Widget 9"
+        }
+      ]
+    },
+  
+    {
+      "id": "image",
+      "name": "Image",
+      "widgets": []
+    },
+    {
+      "id": "ticket",
+      "name": "Ticket",
+      "widgets": []
+    }
+  ]
+}
